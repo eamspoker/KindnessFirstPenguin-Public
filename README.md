@@ -9,7 +9,9 @@
   <p align="center">
     Kindness First Penguin will brighten up your day
     <br />
-    ![GitHub Logo](/images/logo.PNG)
+    <p align="center">
+    <img src="images/logo.PNG" />
+    </p>
     <br />
     <a href="https://youtu.be/Nnd8F9hrGHk">View Demo</a>
   </p>
