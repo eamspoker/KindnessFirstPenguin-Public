@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/eamspoker/KindnessFirstPenguin-Public">
+  <a href="https://github.com/eamspoker/E-QBED-TartanHacks.git">
   </a>
   <h1 align="center">Kindness First Penguin</h1>
   <p align="center">
@@ -13,8 +13,6 @@
     <a href="https://youtu.be/Nnd8F9hrGHk">View Demo</a>
   </p>
 </div>
-
-![GitHub Logo](/images/KindnessFirstPenguin.png)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -45,7 +43,7 @@ We hope Kindness First Penguin gives you positive affirmations and identify nega
 
 ### Installation
 
-Below is the step of how you can install and set up the extension:
+Below is the step-by-step of how you can install and set up the extension:
 
 1. Clone the repo
    ```sh
