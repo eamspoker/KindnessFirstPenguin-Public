@@ -10,7 +10,7 @@
     Kindness First Penguin will brighten up your day
     <br />
     <p align="center">
-    <img src="https://raw.githubusercontent.com/eamspoker/KindnessFirstPenguin-Public/master/images/Logo.PNG" />
+    <a href="https://www.instagram.com/kindnessfirstpenguin/"><img src="https://raw.githubusercontent.com/eamspoker/KindnessFirstPenguin-Public/master/images/Logo.PNG" /></a>
     </p>
     <br />
     <a href="https://youtu.be/Nnd8F9hrGHk">View Demo</a>
