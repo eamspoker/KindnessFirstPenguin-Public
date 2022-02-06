@@ -54,7 +54,7 @@ Below is the step of how you can install and set up the extension.
 
 3. Press [Load unpacked](chrome://extensions/) and upload .js and .html files.
 4. Rename example_manifest.json to manifest .json
-5. [Generate a client id for OAuth](https://medium.com/geekculture/googles-oauth2-authorization-with-chrome-extensions-2d50578fc64f) and add it into the manifest.json.
+5. [Generate a client ID for OAuth](https://medium.com/geekculture/googles-oauth2-authorization-with-chrome-extensions-2d50578fc64f) and add it into the manifest.json.
 
 6. Create Python virtual environment
     ```sh
