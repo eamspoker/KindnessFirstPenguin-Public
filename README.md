@@ -49,19 +49,22 @@ Below is the step of how you can install and set up the extension.
    ```sh
    git clone https://github.com/eamspoker/E-QBED-TartanHacks.git
    ```
+
 2. Go to [Chrome extensions](chrome://extensions/) and turn on developer mode. 
 
 3. Press [Load unpacked](chrome://extensions/) and upload .js and .html files.
+4. Rename example_manifest.json to manifest .json
+5. [Generate a client id for OAuth](https://medium.com/geekculture/googles-oauth2-authorization-with-chrome-extensions-2d50578fc64f) and add it into the manifest.json.
 
-3. Create Python virtual environment
+6. Create Python virtual environment
     ```sh
     python3 -m venv env
     ```
-4. Activate virtual environment
+7. Activate virtual environment
     ```sh
     source env/bin/activate
     ```
-5. Install python environments
+8. Install python environments
      ```sh
    pip3 install -r requirements.txt
    ```
