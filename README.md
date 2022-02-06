@@ -10,7 +10,7 @@
     Kindness First Penguin will brighten up your day
     <br />
     <br />
-    <a href="https://github.com/eamspoker/E-QBED-TartanHacks.git">View Demo</a>
+    <a href="https://youtu.be/Nnd8F9hrGHk">View Demo</a>
   </p>
 </div>
 
@@ -92,6 +92,6 @@ Ellia Yang - elliay@andrew.cmu.edu <br/>
 Esther Ahn - yejua@andrew.cmu.edu
 
 
-Project Link: [https://github.com/eamspoker/E-QBED-TartanHacks.git](https://github.com/eamspoker/E-QBED-TartanHacks.git)
+Project Link: [https://github.com/eamspoker/KindnessFirstPenguin-Public](https://github.com/eamspoker/KindnessFirstPenguin-Public)
 
 
