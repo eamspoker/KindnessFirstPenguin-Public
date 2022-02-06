@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .popup {
+        width: 500px;
+        align-items: center;
+      }
+      #counter {
+        padding-left: 5px;
+      }
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      #logo {
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+      }
+    </style>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
+    <!-- <script src="sketch.js"></script> -->
+    <script src="sprite.js"></script>
+  </head>
+  <body style="background-color: rgb(172,221,163)">
+    <div class="popup">
+
+  <input style="opacity: 0;" type="checkbox" class="openSidebarMenu" id="openSidebarMenu">
+  <label style="opacity: 0;" for="openSidebarMenu" class="sidebarIconToggle">
+    <div class="spinner diagonal part-1"></div>
+    <div class="spinner horizontal"></div>
+    <div class="spinner diagonal part-2"></div>
+  </label>
+
+  <div id="sidebarMenu">
+    <ul class="sidebarMenuInner">
+      <li><button id="feed"><a>Click Here to Feed Pet<span id="food">Inventory - 0 food</span></a></button></li>
+      <li><a href="rename.html">Rename Pet</a></li>
+      <li><span>Signed in as: </span><h4 id="username" style="margin-right: 10px"></h4><li>
+    </ul>
+    </div>
+
+    <div id="bar">
+      <img align="left" id="logo" src="./images/icon48.png"></img>
+      <h3 id="mood">Mood</h3>
+      <h3 id="date" style="text-align:right;float:right; margin-right: 60px; margin-top: 15px;">Date</h3>
+      <h3  id="petname" style="text-align:left;float:left; margin-left: 10px; margin-top: 15px;">Name: Penguin</h3>
+    </div>
+    </div>
+    <script type="text/javascript" src="./popup.js"></script>
+  </body>
+</html>
