@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/eamspoker/E-QBED-TartanHacks.git">
+  <a href="https://github.com/eamspoker/KindnessFirstPenguin-Public">
   </a>
   <h1 align="center">Kindness First Penguin</h1>
   <p align="center">
@@ -50,7 +50,7 @@ Below is the step-by-step of how you can install and set up the extension:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/eamspoker/E-QBED-TartanHacks.git
+   git clone https://github.com/eamspoker/KindnessFirstPenguin-Public
    ```
 
 2. Go to [Chrome extensions](chrome://extensions/) and turn on developer mode
