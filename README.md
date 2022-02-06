@@ -43,18 +43,18 @@ We hope Kindness First Penguin gives you positive affirmations and identify nega
 
 ### Installation
 
-Below is the step of how you can install and set up the extension.
+Below is the step of how you can install and set up the extension:
 
 1. Clone the repo
    ```sh
    git clone https://github.com/eamspoker/E-QBED-TartanHacks.git
    ```
 
-2. Go to [Chrome extensions](chrome://extensions/) and turn on developer mode. 
+2. Go to [Chrome extensions](chrome://extensions/) and turn on developer mode
 
-3. Press [Load unpacked](chrome://extensions/) and upload .js and .html files.
+3. Press [Load unpacked](chrome://extensions/) and upload .js and .html files
 4. Rename example_manifest.json to manifest .json
-5. [Generate a client ID for OAuth](https://medium.com/geekculture/googles-oauth2-authorization-with-chrome-extensions-2d50578fc64f) and add it into the manifest.json.
+5. [Generate a client ID for OAuth](https://medium.com/geekculture/googles-oauth2-authorization-with-chrome-extensions-2d50578fc64f) and add it into the manifest.json
 
 6. Create Python virtual environment
     ```sh
