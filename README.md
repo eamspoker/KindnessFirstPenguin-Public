@@ -12,10 +12,10 @@
     <p align="center">
     <a href="https://www.instagram.com/kindnessfirstpenguin/" target="_blank"><img src="https://raw.githubusercontent.com/eamspoker/KindnessFirstPenguin-Public/master/images/Logo.PNG" /></a>
     </p>
-    <br />
     <p align="center">
     <a href="https://www.instagram.com/kindnessfirstpenguin/" target="_blank"><img src="https://raw.githubusercontent.com/eamspoker/KindnessFirstPenguin-Public/master/images/KindnessFirstPenguinPoster.png" /></a>
     </p>
+    <br />
    <a href="https://youtu.be/Nnd8F9hrGHk">View Demo</a>
   </p>
 </div>
